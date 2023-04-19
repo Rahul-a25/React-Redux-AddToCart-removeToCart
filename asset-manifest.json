@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.8ee41f1a.css",
-    "main.js": "/static/js/main.a97b821f.js",
-    "static/js/787.c1112931.chunk.js": "/static/js/787.c1112931.chunk.js",
-    "index.html": "/index.html",
-    "main.8ee41f1a.css.map": "/static/css/main.8ee41f1a.css.map",
-    "main.a97b821f.js.map": "/static/js/main.a97b821f.js.map",
-    "787.c1112931.chunk.js.map": "/static/js/787.c1112931.chunk.js.map"
+    "main.css": "/React-Redux-AddToCart-removeToCart/static/css/main.8ee41f1a.css",
+    "main.js": "/React-Redux-AddToCart-removeToCart/static/js/main.ed41104d.js",
+    "static/js/787.c1112931.chunk.js": "/React-Redux-AddToCart-removeToCart/static/js/787.c1112931.chunk.js",
+    "index.html": "/React-Redux-AddToCart-removeToCart/index.html",
+    "main.8ee41f1a.css.map": "/React-Redux-AddToCart-removeToCart/static/css/main.8ee41f1a.css.map",
+    "main.ed41104d.js.map": "/React-Redux-AddToCart-removeToCart/static/js/main.ed41104d.js.map",
+    "787.c1112931.chunk.js.map": "/React-Redux-AddToCart-removeToCart/static/js/787.c1112931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8ee41f1a.css",
-    "static/js/main.a97b821f.js"
+    "static/js/main.ed41104d.js"
   ]
 }
